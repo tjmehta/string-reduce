@@ -1,4 +1,6 @@
 # string-reduce [![Build Status](https://travis-ci.org/tjmehta/string-reduce.svg?branch=master)](https://travis-ci.org/tjmehta/string-reduce)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tjmehta/string-reduce.svg)](https://greenkeeper.io/)
 Reduce a string to a value
 
 # Installation
